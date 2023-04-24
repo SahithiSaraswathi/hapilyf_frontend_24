@@ -1,0 +1,75 @@
+{
+  "employee": [
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "huio",
+      "email": "hui@gmail.com",
+      "phone": "3456789012",
+      "active": true,
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "kfjev",
+      "email": "fdkvm,fdv",
+      "phone": "34",
+      "active": true,
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "string",
+      "email": "string",
+      "phone": 0,
+      "id": 12
+    },
+    {
+      "name": "string",
+      "email": "string",
+      "phone": 0,
+      "id": 13
+    },
+    {
+      "name": "sring",
+      "email": "string",
+      "phone": 0,
+      "id": 14
+    },
+    {
+      "name": "physcology",
+      "email": "priya,ramya,sahuithi",
+      "phone": "3,4,5",
+      "active": true,
+      "id": 15
+    },
+    {
+      "id": 16,
+      "name": "gnjhnc",
+      "email": "sahithisaraswathisadhu@gmail.com",
+      "phone": "+919701851687"
+    },
+    {
+      "name": "Sahithi Saraswathi",
+      "email": "sahithisaraswathisadhu@gmail.com",
+      "phone": "+919701851687",
+      "active": true,
+      "id": 17
+    }
+  ]
+}
