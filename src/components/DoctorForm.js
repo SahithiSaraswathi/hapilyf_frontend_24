@@ -3,8 +3,9 @@ import React from "react";
 import moment from "moment";
 import { useState } from "react";
 import axios from 'axios'
-const BASE_URL=process.env.BASE_URL;
-// const BASE_URL= 'localhost://5000';
+// const BASE_URL=process.env.BASE_URL;
+
+const BASE_URL= 'https://hapilyf.onrender.com/';
 function DoctorForm({ onFinish, initialValues }) {
   const [input,setInput]=useState({fullname:"",username:"",password:"",email:"",cpassword:"",number:"",type:"User"});
   const [image,setImage]=useState({data:''});
